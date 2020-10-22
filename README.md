@@ -11,10 +11,8 @@ Jos (10584) (2020). permn (https://www.mathworks.com/matlabcentral/fileexchange/
 
 ### matlab-networks-toolbox-master
 
-
 https://github.com/ivanbrugere/matlab-networks-toolbox
 
-Includes following copyright notice:
 Copyright (c) 2013, Massachusetts Institute of Technology.
 All rights reserved.
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
