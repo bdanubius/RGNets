@@ -3,16 +3,18 @@
 Source code for "Constructing Graphs from Genetic Encodings".
 
 
-Cited code:
+## Cited code:
 
-
-permn.m
+### permn.m
 Jos (10584) (2020). permn (https://www.mathworks.com/matlabcentral/fileexchange/7147-permn), MATLAB Central File Exchange. Retrieved October 22, 2020.
 
-matlab-networks-toolbox-master
+
+### matlab-networks-toolbox-master
+
+
 https://github.com/ivanbrugere/matlab-networks-toolbox
-License/Copyright
------------------
+
+Includes following copyright notice:
 Copyright (c) 2013, Massachusetts Institute of Technology.
 All rights reserved.
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
